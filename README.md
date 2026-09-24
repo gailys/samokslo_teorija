@@ -16,7 +16,18 @@ Puslapio adresas: https://gailys.github.io/samokslo_teorija/
 
 Tekstas redaguojamas `index.html`, išvaizda — `styles.css`, papildomos teorijos — `script.js`.
 
-## Nuorodos peržiūra
+## Paieškos sistemos ir privatumas
+
+Puslapio HTML turi `noindex, nofollow, noimageindex` robots meta žymą.
+Ji nurodo taisyklių besilaikančioms paieškos sistemoms neindeksuoti puslapio;
+ji neuždraudžia puslapio parsisiųsti ir nėra prieigos apsauga.
+„Google“ turi galėti nuskaityti puslapį, kad pamatytų `noindex`.
+Todėl `robots.txt` su `Disallow` čia nepridedamas. Be to, šio projekto
+`/samokslo_teorija/robots.txt` negali pakeisti domeno šaknies `/robots.txt` taisyklių.
+Viešas puslapis ir vieša „GitHub“ saugykla nėra privatūs. Tikram uždaram
+draugų puslapiui reikalinga serverio pusėje tikrinama prieiga.
+
+## Nuorodos peržiūros metaduomenys
 
 `index.html` turi „Open Graph“ ir „Twitter Card“ žymas. Viešas 1200 × 630 JPEG
 peržiūros paveikslėlis: `assets/projektas-j-share-v1.jpg`. Jis pasiekiamas be

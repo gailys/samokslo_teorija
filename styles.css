@@ -619,6 +619,7 @@ blockquote cite {
 }
 .evidence-row > div {
   flex: 1;
+  min-width: 0;
 }
 .evidence-row strong {
   font-size: 13px;
@@ -631,6 +632,9 @@ blockquote cite {
   margin: 8px 0 0;
 }
 .evidence-status {
+  flex-shrink: 0;
+  align-self: flex-start;
+  white-space: nowrap;
   font-size: 7px;
   letter-spacing: 1px;
   border: 1px solid #969d87;
