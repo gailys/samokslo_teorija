@@ -164,6 +164,11 @@ i {
   color: var(--red);
   font-weight: 600;
 }
+.hero h1 .clear-j {
+  font-family: var(--sans);
+  font-style: normal;
+  font-weight: 700;
+}
 .dek {
   font: 17px/1.75 var(--sans);
   max-width: 470px;
