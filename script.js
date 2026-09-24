@@ -25,7 +25,7 @@ const theories = [
   "J gyvena paralelinėje visatoje, kur Tomas jau supažindino ją su mumis?",
   "Ji yra slapta galutinio žaidimo lygio veikėja, o mes dar neįvykdėme šalutinių misijų?",
   "J yra undinė, o mes vis siūlome susitikti ne prie to vandens telkinio?",
-  "„J“ reiškia „Jau tuoj supažindinsiu“? Tai paaiškintų neįtikėtinai daug.",
+  "„Bus matyt“ yra slaptas kodas, kuriuo Tomas pratęsia J nematomumo režimą? Mes tik siūlėme susitikti.",
 ];
 let theoryIndex = 0;
 document.querySelector("#generate").addEventListener("click", () => {
