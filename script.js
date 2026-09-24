@@ -14,6 +14,10 @@ redacted.addEventListener("click", () => {
 
 const theories = [
   "J egzistuoja tik tada, kai niekas iš mūsų nežiūri? Šriodingerio mergina.",
+  "Tomas kasdien veža J į „Danske Bank“, nes ten vienintelė jos modeliui tinkanti įkrovimo stotelė?",
+  "Tomo navigacijoje yra tik du taškai: J ir darbas? Mygtukas „pas draugus“ atsiras kitame atnaujinime.",
+  "J yra šimtametė bankininkė, o Tomas ją vežioja mainais už paslaptį, kaip veikia sudėtinės palūkanos?",
+  "Tomas yra oficialus J palydovas Žemėje? Rytinis reisas — misijos pradžia, vakarinis — evakuacija.",
   "J yra slaptoji agentė, o susitikimui su mumis dar negauti saugumo leidimai?",
   "Ji keliauja laiku ir vis netyčia atvyksta į kitą ketvirtadienį?",
   "J yra holograma, o Tomas vis pamiršta pasiimti projektorių?",

@@ -635,6 +635,9 @@ blockquote cite {
   margin-top: 22px;
   border-left: 2px solid var(--ink);
 }
+.classified + p {
+  margin-top: 24px;
+}
 .classified p {
   font:
     16px/1.8 Georgia,
