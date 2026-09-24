@@ -14,6 +14,10 @@ redacted.addEventListener("click", () => {
 
 const theories = [
   "J egzistuoja tik tada, kai niekas iš mūsų nežiūri? Šriodingerio mergina.",
+  "J yra Justinas, o mes visą laiką tyrėme ne tą vardo galūnę? Inicialas viską atlaikė.",
+  "J turi septynis vaikus, o mūsų kvietimas kalendoriuje stovi iškart po septynių būrelių ir Tomo?",
+  "„Bus matyt“ reiškia, kad Tomo prašymas išeiti pas draugus dar laukia J parašo?",
+  "J turi nuotrauką, kur Tomas suvalgo paskutinį sausainį? Štai ir visas mūsų išgalvotas kompromatas.",
   "Tomas kasdien veža J į „Danske Bank“, nes ten vienintelė jos modeliui tinkanti įkrovimo stotelė?",
   "Tomo navigacijoje yra tik du taškai: J ir darbas? Mygtukas „pas draugus“ atsiras kitame atnaujinime.",
   "J yra šimtametė bankininkė, o Tomas ją vežioja mainais už paslaptį, kaip veikia sudėtinės palūkanos?",
