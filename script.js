@@ -14,6 +14,7 @@ redacted.addEventListener("click", () => {
 
 const theories = [
   "J egzistuoja tik tada, kai niekas iš mūsų nežiūri? Šriodingerio mergina.",
+  "J yra Tomo sukurtas personažas, o susitikimas su mumis dar neįrašytas į scenarijų? „Bus matyt“ — laukiam kito sezono.",
   "J yra Justinas, o mes visą laiką tyrėme ne tą vardo galūnę? Inicialas viską atlaikė.",
   "J turi septynis vaikus, o mūsų kvietimas kalendoriuje stovi iškart po septynių būrelių ir Tomo?",
   "„Bus matyt“ reiškia, kad Tomo prašymas išeiti pas draugus dar laukia J parašo?",
